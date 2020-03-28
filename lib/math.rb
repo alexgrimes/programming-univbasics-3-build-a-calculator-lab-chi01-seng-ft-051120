@@ -18,6 +18,6 @@ def modulo(num1, num2)
   modulo = num1 % num2
 end
 
-def square_root(num1, num2)
-  square_root = num1**num2
+def square_root(num)
+  square_root = num**
 end
